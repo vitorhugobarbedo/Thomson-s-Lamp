@@ -5,14 +5,11 @@
 ![Legenda da imagem](figures/2.png)
 
 
-![Legenda da imagem](figures/3.png)
-
-
 **A conceptual physics project.** This repository takes a philosophical analogy — between the Thomson's Lamp supertask and the Hayden-Preskill black hole information recovery problem — turns it into concrete quantum circuits, and checks the resulting claims numerically, against a calibrated noise model, and on real IBM quantum hardware.
 
 
 > **Status:** protocol derived, verified mathematically, validated on an exact simulator, calibrated against a realistic noise model, and **reproduced in two real runs on IBM Heron r2** (`ibm_marrakesh`, 2026-07-27). Read [Scope](#scope-what-this-is-and-isnt) before drawing conclusions from the hardware numbers.
-
+![Diagram Circuit](figures/3.png)
 ## Scope: what this is, and isn't
 
 **This is:**
