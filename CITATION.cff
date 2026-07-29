@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+
+message: "If you use this work, please cite it as below."
+
+title: "Thomson's Lamp as an Informational Black Hole: From Philosophical Idea to a Reproducibility Check on Real Hardware"
+
+authors:
+  - family-names: Barbedo
+    given-names: Vitor Hugo
+    affiliation: "Universidade Federal de São Paulo (UNIFESP), São José dos Campos, SP, Brazil"
+    orcid: "https://orcid.org/0000-0001-7733-1260"
+
+version: "1.0.0"
+date-released: 2026-07-29
+license: "MIT"
+
+keywords:
+  - quantum computing
+  - Hayden-Preskill
+  - Yoshida-Kitaev
+  - black hole information
+  - Thomson's Lamp
+  - quantum information
+  - scrambling
+  - Page curve
+  - IBM Quantum
+  - Qiskit
+  - reproducibility
