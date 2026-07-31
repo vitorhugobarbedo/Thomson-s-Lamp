@@ -1,4 +1,6 @@
-# Thomson's Lamp as an Informational Black Hole
+# Thomson's Lamp as an Informational Black Hole [![DOI](https://zenodo.org/badge/1314278403.svg)](https://doi.org/10.5281/zenodo.21711629)
+
+**A conceptual physics project.** This repository takes a philosophical analogy — between the Thomson's Lamp supertask and the Hayden-Preskill black hole information recovery problem — turns it into concrete quantum circuits, and checks the resulting claims numerically, against a calibrated noise model, and on real IBM quantum hardware.
 
 ![Legenda da imagem](figures/1.png)
 
